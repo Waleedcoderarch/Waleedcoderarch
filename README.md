@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hello, I'm a Cloud & DevOps Engineer</h1>
+<h1 align="center">👋 Hello, I'm Waleed Ahmed</h1>
 
 <p align="center">
-  <em>Passionate about building scalable, resilient, and automated cloud infrastructure</em>
+  <em>Cloud & DevOps Engineer — Passionate about building scalable, resilient, and automated cloud infrastructure</em>
 </p>
 
 <p align="center">
@@ -60,10 +60,10 @@ My focus lies at the intersection of **cloud architecture**, **containerization*
       <sub>Monitoring & Observability</sub>
     </td>
     <td align="center" width="130">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="Linux"/><br/>
-  <strong>Linux</strong><br/>
-  <sub>System Administration</sub>
-</td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="Linux"/><br/>
+      <strong>Linux</strong><br/>
+      <sub>System Administration</sub>
+    </td>
   </tr>
 </table>
 
@@ -85,6 +85,35 @@ My focus lies at the intersection of **cloud architecture**, **containerization*
 
 ---
 
+## 📊 GitHub Stats
+
+<img src="metrics.base.svg" alt="GitHub Metrics" width="100%" />
+
+---
+
+## 📅 Contributions Calendar
+
+<img src="metrics.isocalendar.svg" alt="Contributions Calendar" width="100%" />
+
+---
+
+## ⏰ Commit Activity & Coding Habits
+
+<img src="metrics.activity.svg" alt="Commit Activity" width="100%" />
+
+---
+
+## 🌐 Language Activity
+
+<img src="metrics.languages.svg" alt="Language Activity" width="100%" />
+
+---
+
+## 🧠 Mastered Technologies & Topics
+
+<img src="metrics.topics.svg" alt="Mastered Topics" width="100%" />
+
+---
 
 ## 🤝 Let's Connect
 
@@ -93,7 +122,7 @@ My focus lies at the intersection of **cloud architecture**, **containerization*
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="waleedahmed22005@gmail.com">
+  <a href="mailto:waleedahmed22005@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
@@ -105,9 +134,13 @@ My focus lies at the intersection of **cloud architecture**, **containerization*
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0ea5e9&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Waleedcoderarch&label=Profile+Views&color=0ea5e9&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">
   <em>"Automate everything. Observe relentlessly. Deliver continuously."</em>
+</p>
+
+<p align="center">
+  <sub>📈 Metrics auto-generated daily using <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sub>
 </p>
