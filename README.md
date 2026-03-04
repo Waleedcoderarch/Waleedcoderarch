@@ -87,31 +87,31 @@ My focus lies at the intersection of **cloud architecture**, **containerization*
 
 ## 📊 GitHub Stats
 
-<img src="metrics.base.svg" alt="GitHub Metrics" width="100%" />
+<img src="metrics.base.svg" alt="GitHub Metrics" width="50%" />
 
 ---
 
 ## 📅 Contributions Calendar
 
-<img src="metrics.isocalendar.svg" alt="Contributions Calendar" width="100%" />
+<img src="metrics.isocalendar.svg" alt="Contributions Calendar" width="50%" />
 
 ---
 
 ## ⏰ Commit Activity & Coding Habits
 
-<img src="metrics.activity.svg" alt="Commit Activity" width="100%" />
+<img src="metrics.activity.svg" alt="Commit Activity" width="50%" />
 
 ---
 
 ## 🌐 Language Activity
 
-<img src="metrics.languages.svg" alt="Language Activity" width="100%" />
+<img src="metrics.languages.svg" alt="Language Activity" width="50%" />
 
 ---
 
 ## 🧠 Mastered Technologies & Topics
 
-<img src="metrics.topics.svg" alt="Mastered Topics" width="100%" />
+<img src="metrics.topics.svg" alt="Mastered Topics" width="50%" />
 
 ---
 
