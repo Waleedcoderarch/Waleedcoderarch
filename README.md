@@ -85,33 +85,33 @@ My focus lies at the intersection of **cloud architecture**, **containerization*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & 📅 Contributions Calendar
 
-<img src="metrics.base.svg" alt="GitHub Metrics" width="50%" />
-
----
-
-## 📅 Contributions Calendar
-
-<img src="metrics.isocalendar.svg" alt="Contributions Calendar" width="50%" />
-
----
-
-## ⏰ Commit Activity & Coding Habits
-
-<img src="metrics.activity.svg" alt="Commit Activity" width="50%" />
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="metrics.base.svg" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="metrics.isocalendar.svg" alt="Contributions Calendar" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Language Activity
+## ⏰ Commit Activity & 🌐 Language Activity
 
-<img src="metrics.languages.svg" alt="Language Activity" width="50%" />
-
----
-
-## 🧠 Mastered Technologies & Topics
-
-<img src="metrics.topics.svg" alt="Mastered Topics" width="50%" />
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="metrics.activity.svg" alt="Commit Activity" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="metrics.languages.svg" alt="Language Activity" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
