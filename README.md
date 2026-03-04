@@ -60,8 +60,10 @@ My focus lies at the intersection of **cloud architecture**, **containerization*
       <sub>Monitoring & Observability</sub>
     </td>
     <td align="center" width="130">
-      <!-- Placeholder for future skill -->
-    </td>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="Linux"/><br/>
+  <strong>Linux</strong><br/>
+  <sub>System Administration</sub>
+</td>
   </tr>
 </table>
 
