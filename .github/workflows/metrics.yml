@@ -29,7 +29,7 @@ jobs:
           config_timezone: Asia/Karachi
 
       # ──────────────────────────────────────────────
-      # 2. CONTRIBUTIONS CALENDAR (isometric 3D view)
+      # 2. CONTRIBUTIONS CALENDAR (isometric 3D views)
       # ──────────────────────────────────────────────
       - name: Isometric contributions calendar
         uses: lowlighter/metrics@latest
